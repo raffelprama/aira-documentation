@@ -101,7 +101,7 @@ The AIRA application communicates with Slack via HTTP POST requests to the Slack
     * **File Upload**: The `files.upload` API endpoint is used to upload files (e.g., for detailed RCA reports or resolving steps) to a specific channel or thread.
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="../usage/3_extending.md">⬅️ Previous</a>
   <a href="2_cli.md">Next ➡️</a>
 </div>

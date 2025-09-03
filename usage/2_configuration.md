@@ -61,7 +61,7 @@ config = load_config(
 )
 ```
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="1_running.md">⬅️ Previous</a>
   <a href="3_extending.md">Next ➡️</a>
 </div>

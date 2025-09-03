@@ -81,7 +81,7 @@ If the problem is solvable, the **Execution Agent** uses the RCA output to apply
 This complete workflow shows how AIRA can not only identify issues but also take action to resolve them automatically.
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="../reference/3_schema.md">⬅️ Previous</a>
   <a href="2_custom-agent.md">Next ➡️</a>
 </div>

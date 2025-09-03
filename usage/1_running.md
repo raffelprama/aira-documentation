@@ -94,7 +94,7 @@ EXPOSE 8000
 CMD ["gunicorn", "--bind", "0.0.0.0:8000", "src.main:app"]
 ```
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="../architecture/4_data-flow.md">⬅️ Previous</a>
   <a href="2_configuration.md">Next ➡️</a>
 </div>

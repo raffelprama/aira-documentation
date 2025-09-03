@@ -123,7 +123,7 @@ This operation stores user feedback in the `feedback_flags` table.
 | `updatedAt`        | Current timestamp converted to ISO string (`$now`)        |
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="2_cli.md">⬅️ Previous</a>
   <a href="../agent/1_kubernetes.md">Next ➡️</a>
 </div>

@@ -62,7 +62,7 @@ flowchart TD
     Slack --> B
 ```
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="../getting-started.md">⬅️ Previous</a>
   <a href="2_workflow-graph.md">Next ➡️</a>
 </div>

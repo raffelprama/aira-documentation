@@ -71,7 +71,7 @@ While not a CLI, setting environment variables is a crucial part of the command-
 * **Example (using `dotenv`)**: The `python-dotenv` library allows you to load variables from a `.env` file, so you don't have to specify them each time.
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="1_api.md">⬅️ Previous</a>
   <a href="3_schema.md">Next ➡️</a>
 </div>

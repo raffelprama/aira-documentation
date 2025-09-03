@@ -161,7 +161,7 @@ AIRA connects with external systems for communication, storage, and context.
 * **Persistence** = state + history + feedback for learning.
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="2_workflow-graph.md">⬅️ Previous</a>
   <a href="4_data-flow.md">Next ➡️</a>
 </div>

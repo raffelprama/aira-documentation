@@ -95,7 +95,7 @@ flowchart LR
 
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="1_overview.md">⬅️ Previous</a>
   <a href="3_components.md">Next ➡️</a>
 </div>

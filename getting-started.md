@@ -72,7 +72,7 @@ If successful, you should see:
 ```
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="index.md">⬅️ Previous</a>
   <a href="architecture/1_overview.md">Next ➡️</a>
 </div>

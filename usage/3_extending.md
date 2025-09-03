@@ -56,7 +56,7 @@ The first step is to create a new Python module for your agent. This agent will 
         return "end"
     ```
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="2_configuration.md">⬅️ Previous</a>
   <a href="../reference/1_api.md">Next ➡️</a>
 </div>

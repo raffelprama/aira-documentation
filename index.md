@@ -54,7 +54,7 @@ This project's documentation is organized into several key sections.
 
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="getting_started.md"> </a>
   <a href="getting-started.md">Next ➡️</a>
 </div>

@@ -65,7 +65,7 @@ def should_continue_database(state: list[BaseMessage]):
     return "end"
 ```
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="1_kubernetes.md">⬅️ Previous</a>
   <a href="../index.md">Return ➡️</a>
 </div>

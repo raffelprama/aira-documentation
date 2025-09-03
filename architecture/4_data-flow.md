@@ -99,7 +99,7 @@ The final stage closes the loop by capturing user feedback on the agent's perfor
 * **Output**: A feedback record in the database and an updated runbook for future reference.
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;";align="center">
   <a href="3_components.md">⬅️ Previous</a>
   <a href="../usage/1_running.md">Next ➡️</a>
 </div>
